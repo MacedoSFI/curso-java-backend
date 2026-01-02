@@ -2,7 +2,7 @@ target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
-.src/main/java/modulo4/Anotacao.txt
+src/main/java/modulo4/Anotacao.txt
 
 
 ### IntelliJ IDEA ###
